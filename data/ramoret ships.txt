@@ -92,9 +92,9 @@ ship "Del Mot Ul 24"
 		"hull" 19800
 		"automaton" 1
 		"crew equivalent" 20
-		"mass" 390
-		"drag" 4.9
-		"heat dissipation" .95
+		"mass" 507
+		"drag" 6.4
+		"heat dissipation" .73
 		"fuel capacity" 400
 		"cargo space" 23
 		"outfit space" 422
@@ -152,9 +152,9 @@ ship "Sep Mot Ul 192"
 		"hull" 34600
 		"automaton" 1
 		"crew equivalent" 70
-		"mass" 810
-		"drag" 13.4
-		"heat dissipation" .65
+		"mass" 1296
+		"drag" 21.4
+		"heat dissipation" .41
 		"fuel capacity" 400
 		"cargo space" 38
 		"outfit space" 719
@@ -246,9 +246,9 @@ ship "Tak Mot Ul 384"
 		"hull" 66200
 		"automaton" 1
 		"crew equivalent" 180
-		"mass" 1430
-		"drag" 17.8
-		"heat dissipation" .57
+		"mass" 2717
+		"drag" 33.8
+		"heat dissipation" .3
 		"fuel capacity" 400
 		"cargo space" 102
 		"outfit space" 1086
