@@ -80,7 +80,7 @@ ship "Kei Sep Ul 12"
 	gun 0.5 -26
 	explode "tiny explosion" 25
 	explode "small explosion" 15
-	description "Kor Ramoret carriers are effectively their own self-contained fleets, with mixes of support and offensive craft. Packed full of durability and a pair of disruption repeaters, the Kei Sep Ul 12 acts as a supportive craft and meatshield, absorbing damage while crippling shields for their smaller counterparts."
+	description "Kor Ramoret carriers are effectively their own self-contained fleets, with mixes of support and offensive craft. Packed full of durability and a pair of Disruption Repeaters, the Kei Sep Ul 12 acts as a supportive craft and meatshield, absorbing damage while crippling shields for their smaller counterparts."
 
 ship "Del Mot Ul 24"
 	sprite "ship/del mot ul 24"
@@ -101,7 +101,7 @@ ship "Del Mot Ul 24"
 		"weapon capacity" 182
 		"engine capacity" 82
 		"self destruct" .5
-		"ramscoop" 5
+		"ramscoop" 3
 		weapon
 			"blast radius" 230
 			"shield damage" 3200
@@ -161,7 +161,7 @@ ship "Sep Mot Ul 192"
 		"weapon capacity" 272
 		"engine capacity" 123
 		"self destruct" .6
-		"ramscoop" 5
+		"ramscoop" 3
 		weapon
 			"blast radius" 390
 			"shield damage" 4900
@@ -234,7 +234,7 @@ ship "Sep Mot Ul 192"
 	explode "large explosion" 45
 	explode "huge explosion" 12
 	"final explode" "final explosion large"
-	description "This carrier is equipped with docking clamps for up to nine fighters. When loaded with a full complement of the powerful Kor Sestor robotic fighters, it is a formidable opponent."
+	description "This carrier is furnished with berthing spots for up to nine fighters and ten drones. When filled with a complete supplement of the powerful Kor Ramoret automated carriables, it is a intimidating enemy."
 
 ship "Tak Mot Ul 384"
 	sprite "ship/tak mot ul 384"
@@ -255,7 +255,7 @@ ship "Tak Mot Ul 384"
 		"weapon capacity" 453
 		"engine capacity" 178
 		"self destruct" .75
-		"ramscoop" 5
+		"ramscoop" 3
 		weapon
 			"blast radius" 450
 			"shield damage" 6400
