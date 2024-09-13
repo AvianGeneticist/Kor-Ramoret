@@ -101,7 +101,7 @@ ship "Del Mot Ul 24"
 		"weapon capacity" 182
 		"engine capacity" 82
 		"self destruct" .5
-		"ramscoop" 3
+		"ramscoop" 5
 		weapon
 			"blast radius" 230
 			"shield damage" 3200
@@ -161,7 +161,7 @@ ship "Sep Mot Ul 192"
 		"weapon capacity" 272
 		"engine capacity" 123
 		"self destruct" .6
-		"ramscoop" 3
+		"ramscoop" 5
 		weapon
 			"blast radius" 390
 			"shield damage" 4900
@@ -255,7 +255,7 @@ ship "Tak Mot Ul 384"
 		"weapon capacity" 453
 		"engine capacity" 178
 		"self destruct" .75
-		"ramscoop" 3
+		"ramscoop" 5
 		weapon
 			"blast radius" 450
 			"shield damage" 6400
